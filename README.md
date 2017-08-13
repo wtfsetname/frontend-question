@@ -31,5 +31,6 @@ setTimeout(function(){console.log(2)}, 0)
 console.log(3)
 ```
 执行结果
+
 26. js 中 undefined, NaN, 0, '', null的真值
 
