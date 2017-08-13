@@ -21,3 +21,15 @@
 19. css !important属性
 20. css calc计算属性
 21. css 盒模型
+22. input type的类型
+23. 语义化元素的使用？
+24. this
+25. 
+```
+setTimeout(function(){console.log(1)}, 100)
+setTimeout(function(){console.log(2)}, 0)
+console.log(3)
+```
+执行结果
+26. js 中 undefined, NaN, 0, '', null的真值
+
