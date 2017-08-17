@@ -33,4 +33,6 @@ console.log(3)
 执行结果
 
 26. js 中 undefined, NaN, 0, '', null的真值
-
+27. 深度拷贝的实现
+28. React中diff算法的实现以及对节点是如何进行最小化改变的
+29. flex布局
